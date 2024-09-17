@@ -1,0 +1,32 @@
+body {
+    background-color: blueviolet;
+    
+}
+
+h1  {
+    text-align: center;
+    color: brown;
+    font-size: 200%;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(255, 230, 0);
+}
+
+h3 {
+    text-align: center;
+    color: aqua;
+}
+
+h4 {
+    text-align: center;
+    color: black;
+    font-size: 200%;
+}
+
+body {text-align: center;}
+
+.tenor-gif-embed {
+    margin-left: 40%;
+}
